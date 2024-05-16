@@ -12,6 +12,10 @@ i'm learning python<br>i like python
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohwmmad86&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# my tools:
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohwmmad86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
