@@ -9,7 +9,7 @@ I'm learning Python<br>I like Python
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 # my tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,stackoverflow,windows )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,stackoverflow,ubuntu )](https://skillicons.dev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohwmmad86&icon=0&color=0)](https://visitcount.itsvg.in)
