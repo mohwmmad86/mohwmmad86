@@ -1,5 +1,3 @@
-![github-header-image(1)](https://github.com/mohwmmad86/mohwmmad86/assets/118073811/1277fecf-6aa3-45a9-beb1-fc930444d97f)
-
 ### WHO AM I
 I'm Mohammad
 
