@@ -1,15 +1,22 @@
-# 💫 About Me:
-I'm learning Python<br>I like Python
+![github-header-image(1)](https://github.com/mohwmmad86/mohwmmad86/assets/118073811/1277fecf-6aa3-45a9-beb1-fc930444d97f)
 
+### WHO AM I
+I'm Mohammad
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohwmmad86) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohwmmad86) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mohwmmad86) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohwmmad86)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad2007maleki@gmail.com) 
+**About me**
+- 🎓 I love learning Python...
+-------
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
+### MY SKILLS
 
-# my tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,stackoverflow,mint )](https://skillicons.dev)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohwmmad86&icon=0&color=0)](https://visitcount.itsvg.in)
+### MY STATS
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohwmmad86&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&title_color=507bb3&text_color=fcfcfc&icon_color=fcfcfc&bg_color=22272e" width="49%" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&layout=compact&theme=slateorange" width="49%" height="180px"/>
+</p>
