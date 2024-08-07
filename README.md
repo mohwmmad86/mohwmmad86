@@ -5,6 +5,14 @@ I'm Mohammad
 - 🎓 I love learning Python...
 -------
 
+###MY SOCIALS
+
+[![Instagram](https://img.shields.io/badge/Instagram-red.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohwmmad86) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://t.me/mohwmmad86) 
+
+[![X](https://img.shields.io/badge/X-black.svg?logo=Telegram&logoColor=white)](https://x.com/mohwmmad86) 
+
 ### MY SKILLS
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
