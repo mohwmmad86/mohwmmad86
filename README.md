@@ -1,26 +1,24 @@
-### WHO AM I
-I'm Mohammad
+# who am i 👤
+<h2 align="center" >Hi</h2>
+<p align="center" >Hi , I'm Mohammad 😎</p>
+<p  align="center" >I like to learn python 🐍</p>
 
-**About me**
-- 🎓 I love learning Python...
--------
 
-###MY SOCIALS
+# What do I use? 👨🏻‍💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-red.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohwmmad86) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=Telegram&logoColor=white)](https://t.me/mohwmmad86) 
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=Telegram&logoColor=white)](https://x.com/mohwmmad86) 
+# find me 🧐:
 
-### MY SKILLS
+<a href="https://t.me/mohwmmad86"><img src="https://github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/telegram.png" width="50px"></a> 
+<a href="https://instagram.com/mohwmmad86"><img src="https://github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/instagram.png" width="50px"></a> 
+<a href="https://x.com/mohwmmad86"><img src="https://github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/x.png" width="50px"></a> 
+<a href="https://reddit.com/u/mphwmmad86"><img src="https://github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/reddit.png" width="50px"></a> 
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### MY STATS
+
+# my status 👀
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=mohwmmad86&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&title_color=507bb3&text_color=fcfcfc&icon_color=fcfcfc&bg_color=22272e" width="49%" height="180px"/>
