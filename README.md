@@ -6,8 +6,11 @@
 
 # What do I use? 👨🏻‍💻
 
-![Python](https://img.shields.io/badge/python-27015E?style=for-the-badge&logo=python&logoColor=F700FF) ![Linux](https://img.shields.io/badge/Linux-27015E?style=for-the-badge&logo=linux&logoColor=F700FF) ![MySQL](https://img.shields.io/badge/mysql-27015E.svg?style=for-the-badge&logo=mysql&logoColor=F700FF) 
-
+<p>
+    <img src="https://img.shields.io/badge/python-27015E?style=for-the-badge&logo=python&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/Linux-27015E?style=for-the-badge&logo=linux&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/mysql-27015E.svg?style=for-the-badge&logo=mysql&logoColor=F700FF">
+</p>
 
 # find me 🧐:
 
