@@ -22,6 +22,6 @@
 # my status 👀
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=mohwmmad86&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&title_color=507bb3&text_color=fcfcfc&icon_color=fcfcfc&bg_color=22272e" width="49%" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&layout=compact&theme=slateorange" width="49%" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mohwmmad86&show_icons=false&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&layout=compact&theme=tokyonight">
 </p>
