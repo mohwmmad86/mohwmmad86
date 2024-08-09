@@ -6,7 +6,7 @@
 
 # What do I use? 👨🏻‍💻
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-27015E?style=for-the-badge&logo=python&logoColor=F700FF) ![Linux](https://img.shields.io/badge/Linux-27015E?style=for-the-badge&logo=linux&logoColor=F700FF) ![MySQL](https://img.shields.io/badge/mysql-27015E.svg?style=for-the-badge&logo=mysql&logoColor=F700FF) 
 
 
 # find me 🧐:
