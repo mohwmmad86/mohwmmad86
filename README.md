@@ -13,8 +13,11 @@
 
 <p>
     <img src="https://img.shields.io/badge/python-27015E?style=for-the-badge&logo=python&logoColor=F700FF">
-    <img src="https://img.shields.io/badge/Linux-27015E?style=for-the-badge&logo=linux&logoColor=F700FF">
-    <img src="https://img.shields.io/badge/mysql-27015E.svg?style=for-the-badge&logo=mysql&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/windows-27015E?style=for-the-badge&logo=windows&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/HTML-its README.md will appear on your profile!?style=for-the-badge&logo=html5&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/tailwindcss-27015E?style=for-the-badge&logo=tailwindcss&logoColor=F700FF">
+    <img src="https://img.shields.io/badge/alpine.js-27015E?style=for-the-badge&logo=alpine.js&logoColor=F700FF">
 </p>
 
 # find me 🧐:
