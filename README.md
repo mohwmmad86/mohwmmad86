@@ -30,6 +30,6 @@
 # my status 👀
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mohwmmad86&show_icons=false&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=malekilogic&show_icons=false&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekilogic&layout=compact&theme=tokyonight">
 </p>
