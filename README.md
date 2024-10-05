@@ -1,4 +1,4 @@
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=mohwmmad86&data=followers,repositories,stars,commits&theme=darkmode">
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=mohwmmad86&data=followers,repositories,stars,commits&theme=nautilus">
 
 ![](https://visitcount.itsvg.in/api?id=mohwmmad86&label=Profile%20Views&color=9&icon=8&pretty=true)
 
@@ -10,7 +10,9 @@
 
 # my skills
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,csharp,mysql)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,csharp,mysql&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=tailwind&includeNames=true&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
 # find me :
@@ -20,12 +22,3 @@
 <a href="https:instagram.com/mohwmmad86"><img src="https:github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/instagram.png" width="50px"></a> 
 <a href="https:x.com/mohwmmad86"><img src="https:github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/x.png" width="50px"></a> 
 <a href="https:reddit.com/u/mohwmmad86"><img src="https:github.com/mohwmmad86/mohwmmad86/blob/86fa88d9f3c0b8118c06440a948fad1b51809612/icons/reddit.png" width="50px"></a> 
-
-
-
-# my status 👀
-
-<p>
-    <img src="https:github-readme-stats.vercel.app/api?username=mohwmmad86&show_icons=false&theme=tokyonight">
-    <img src="https:github-readme-stats.vercel.app/api/top-langs/?username=mohwmmad86&layout=compact&theme=tokyonight">
-</p>
